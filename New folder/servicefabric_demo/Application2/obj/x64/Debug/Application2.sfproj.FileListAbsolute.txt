@@ -1,0 +1,1 @@
+D:\C#pro\servicefabric_demo\Application2\obj\x64\Debug\Application2.sfproj.CoreCompileInputs.cache

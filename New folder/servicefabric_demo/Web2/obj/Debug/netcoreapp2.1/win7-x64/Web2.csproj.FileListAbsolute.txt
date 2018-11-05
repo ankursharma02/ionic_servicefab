@@ -1,0 +1,16 @@
+D:\C#pro\servicefabric_demo\Web2\obj\Debug\netcoreapp2.1\win7-x64\Web2.csproj.CoreCompileInputs.cache
+D:\C#pro\servicefabric_demo\Web2\obj\Debug\netcoreapp2.1\win7-x64\Web2.AssemblyInfoInputs.cache
+D:\C#pro\servicefabric_demo\Web2\obj\Debug\netcoreapp2.1\win7-x64\Web2.AssemblyInfo.cs
+D:\C#pro\servicefabric_demo\Web2\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+D:\C#pro\servicefabric_demo\Web2\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+D:\C#pro\servicefabric_demo\Web2\bin\Debug\netcoreapp2.1\win7-x64\Web2.exe
+D:\C#pro\servicefabric_demo\Web2\bin\Debug\netcoreapp2.1\win7-x64\Web2.deps.json
+D:\C#pro\servicefabric_demo\Web2\bin\Debug\netcoreapp2.1\win7-x64\Web2.runtimeconfig.json
+D:\C#pro\servicefabric_demo\Web2\bin\Debug\netcoreapp2.1\win7-x64\Web2.runtimeconfig.dev.json
+D:\C#pro\servicefabric_demo\Web2\bin\Debug\netcoreapp2.1\win7-x64\Web2.dll
+D:\C#pro\servicefabric_demo\Web2\bin\Debug\netcoreapp2.1\win7-x64\Web2.pdb
+D:\C#pro\servicefabric_demo\Web2\obj\Debug\netcoreapp2.1\win7-x64\Web2.RazorAssemblyInfo.cache
+D:\C#pro\servicefabric_demo\Web2\obj\Debug\netcoreapp2.1\win7-x64\Web2.RazorAssemblyInfo.cs
+D:\C#pro\servicefabric_demo\Web2\obj\Debug\netcoreapp2.1\win7-x64\Web2.RazorTargetAssemblyInfo.cache
+D:\C#pro\servicefabric_demo\Web2\obj\Debug\netcoreapp2.1\win7-x64\Web2.dll
+D:\C#pro\servicefabric_demo\Web2\obj\Debug\netcoreapp2.1\win7-x64\Web2.pdb
